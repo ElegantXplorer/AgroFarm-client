@@ -1,0 +1,8 @@
+.userorderimg{
+    background-image: url("C:/Users/2317449/Downloads/Project/AgroFarmingStore-Frontend/src/assets/orderPageimg.jpg");
+    background-position: center;
+    background-size: cover;
+    padding: 100px 0;
+    display:relative;
+
+}
